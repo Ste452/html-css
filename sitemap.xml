@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.example.com/foo.html</loc>
+    <lastmod>2022-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://ebaconline.com</loc>
+    <lastmod>2022-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ebaconline.com/sobre.html</loc>
+    <lastmod>2022-02-15</lastmod>
+  </url>
+  <url>
+    <loc>https://ebaconline.com/01-introducao.html</loc>
+    <lastmod>2022-02-15</lastmod>
+  </url>
+</urlset>
